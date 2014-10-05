@@ -1,0 +1,9 @@
+Building Vidio
+
+See doc/readme-qt.rst for instructions on building Vidio QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Vidio.
+
+See doc/build-*.txt for instructions on building Vidiod,
+the intended-for-services, no-graphical-interface, reference
+implementation of Vidio.
