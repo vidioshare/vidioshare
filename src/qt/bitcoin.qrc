@@ -1,6 +1,7 @@
 <RCC>
     <qresource prefix="/icons">
         <file alias="bitcoin">res/icons/Vidio-80.png</file>
+		<file alias="techbg">res/icons/vidio256.png</file>
         <file alias="bitcoin_testnet">res/icons/Vidio-80.png</file>
         <file alias="toolbar">res/icons/Vidio-16.png</file>
         <file alias="toolbar_testnet">res/icons/Vidio-16.png</file>
